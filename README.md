@@ -10,4 +10,12 @@ CNN,
 
 Flask API
 
+![](https://github.com/sathwikbs/Potato-Plant-Disease-Classification/blob/main/Images/p_eb.png)
+
+![](https://github.com/sathwikbs/Potato-Plant-Disease-Classification/blob/main/Images/p_he.png)
+
+![](https://github.com/sathwikbs/Potato-Plant-Disease-Classification/blob/main/Images/p_lb.png)
+
 DatasetLink: https://www.kaggle.com/abdallahalidev/plantvillage-dataset
+
+
